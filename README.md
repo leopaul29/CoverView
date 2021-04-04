@@ -57,3 +57,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Don't forget to leave a ⭐ if you found this useful.
 
 
+## 🧬 Change I want to implement
+Be able to save a template of configuration by selecting which element I want to save in my template (eg: only image, only color and border style, etc)
